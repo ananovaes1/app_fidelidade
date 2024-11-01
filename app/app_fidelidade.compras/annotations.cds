@@ -1,0 +1,1 @@
+using app_fidelidadeSrv as service from '../../srv/service';
